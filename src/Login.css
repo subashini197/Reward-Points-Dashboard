@@ -1,0 +1,61 @@
+/* General styles for the app */
+.app {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #e0f7fa; /* Light cyan background */
+  }
+  
+  /* Card styles */
+  .card {
+    background-color: white;
+    padding: 60px;
+    border-radius: 30px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Welcome text */
+  .card h2 {
+    font-family: 'Georgia', serif;
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  /* Logo styling */
+  .logo {
+    width: 150px;
+    margin: 20px 0;
+  }
+  
+  /* Dashboard text */
+  .card h3 {
+    font-family: 'Arial', sans-serif;
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+  
+  /* Sign in button */
+  .sign-in-button {
+    background-color: #28a745; /* Green background */
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  
+  /* Sign in text */
+  .sign-in-text {
+    color: #555;
+    font-size: 14px;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .sign-in-button:hover {
+    background-color: #218838;
+  }
+  

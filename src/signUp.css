@@ -1,0 +1,61 @@
+.First-container {
+  max-width: 400px;
+  margin-top: 500px;
+  margin: 180px auto;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.First-title {
+  font-size: 24px;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+.First-subtitle {
+  font-size: 20px;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+.First-link {
+  margin-bottom: 20px;
+  color: #ff6600;
+}
+
+.First-form {
+  text-align: left;
+}
+
+.input-group {
+  margin-bottom: 15px;
+}
+
+.label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+.required {
+  color: red;
+}
+
+.input {
+  width: 100%;
+  padding: 8px;
+  font-size: 16px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+.First-button {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  background-color: #ff6600;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
